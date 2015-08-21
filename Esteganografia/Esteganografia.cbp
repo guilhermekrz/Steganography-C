@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Esteganografia" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Esteganografia" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Esteganografia" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="`sdl-config --cflags`" />
+		</Compiler>
+		<Linker>
+			<Add option="`sdl-config --libs`" />
+			<Add library="SDL_image" />
+		</Linker>
+		<Unit filename="EsconderP1.cpp" />
+		<Unit filename="EsconderP1.h" />
+		<Unit filename="EsconderP2.cpp" />
+		<Unit filename="EsconderP2.h" />
+		<Unit filename="EsconderP4.cpp" />
+		<Unit filename="EsconderP4.h" />
+		<Unit filename="EsconderP5.cpp" />
+		<Unit filename="EsconderP5.h" />
+		<Unit filename="EsconderP6.cpp" />
+		<Unit filename="EsconderP6.h" />
+		<Unit filename="EsconderPrograma.cpp" />
+		<Unit filename="EsconderPrograma.h" />
+		<Unit filename="EsconderTC.cpp" />
+		<Unit filename="EsconderTC.h" />
+		<Unit filename="Imagem.cpp" />
+		<Unit filename="Imagem.h" />
+		<Unit filename="MPixels.cpp" />
+		<Unit filename="MPixels.h" />
+		<Unit filename="defs.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="sPixel.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

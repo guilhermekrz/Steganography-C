@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="EsconderP1.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="1097" topLine="0" />
+	</File>
+	<File name="EsconderP1.h" open="0" top="0" tabpos="6">
+		<Cursor position="670" topLine="0" />
+	</File>
+	<File name="EsconderP2.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="1374" topLine="6" />
+	</File>
+	<File name="EsconderP2.h" open="0" top="0" tabpos="0">
+		<Cursor position="581" topLine="0" />
+	</File>
+	<File name="EsconderP4.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="1136" topLine="1" />
+	</File>
+	<File name="EsconderP4.h" open="0" top="0" tabpos="0">
+		<Cursor position="611" topLine="0" />
+	</File>
+	<File name="EsconderP5.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1195" topLine="1" />
+	</File>
+	<File name="EsconderP5.h" open="0" top="0" tabpos="0">
+		<Cursor position="529" topLine="0" />
+	</File>
+	<File name="EsconderP6.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="1288" topLine="0" />
+	</File>
+	<File name="EsconderP6.h" open="0" top="0" tabpos="5">
+		<Cursor position="528" topLine="0" />
+	</File>
+	<File name="EsconderPrograma.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="3858" topLine="120" />
+	</File>
+	<File name="EsconderPrograma.h" open="0" top="0" tabpos="3">
+		<Cursor position="225" topLine="0" />
+	</File>
+	<File name="EsconderTC.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="1136" topLine="1" />
+	</File>
+	<File name="EsconderTC.h" open="0" top="0" tabpos="7">
+		<Cursor position="609" topLine="0" />
+	</File>
+	<File name="Imagem.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="3429" topLine="119" />
+	</File>
+	<File name="Imagem.h" open="0" top="0" tabpos="2">
+		<Cursor position="346" topLine="0" />
+	</File>
+	<File name="MPixels.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="15489" topLine="0" />
+	</File>
+	<File name="MPixels.h" open="0" top="0" tabpos="2">
+		<Cursor position="2044" topLine="12" />
+	</File>
+	<File name="defs.h" open="0" top="0" tabpos="4">
+		<Cursor position="1752" topLine="25" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="0">
+		<Cursor position="6235" topLine="0" />
+	</File>
+	<File name="sPixel.h" open="0" top="0" tabpos="6">
+		<Cursor position="88" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
